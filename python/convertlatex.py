@@ -15,6 +15,7 @@ f=file('output.txt','w')
 
 # for each line in the file
 for file in csvs :
+    f.write('\n\n\n '+file+'\n\n')
     infile = open('output/'+file)
     data = infile.readlines()
     infile.close()

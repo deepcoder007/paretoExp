@@ -1,0 +1,568 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 5000, $\alpha_0$ = 2.0 , $\alpha_1$ = 0.4 , $\alpha_2$ = 0.5 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.96972 & 0.43393 & 0.56117 & 0.00012 & 0.00004 & 1.40406 & 0.50694 \\ 
+MSE & 0.00778 & 0.00717 & 0.01232 & 0.00000 & 0.00000 & 0.00956 & 0.00136 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 5000, $\alpha_0$ = 1.0 , $\alpha_1$ = 1.0 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.98085 & 1.01270 & 1.42828 & 0.00015 & 0.00004 & 1.39380 & 0.50361 \\ 
+MSE & 0.00204 & 0.00483 & 0.00891 & 0.00000 & 0.00000 & 0.00742 & 0.00090 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 5000, $\alpha_0$ = 2.0 , $\alpha_1$ = 1.2 , $\alpha_2$ = 1.4 , $\mu_1$ = 1.0 , $\mu_2$ = 2.0 , $\sigma_1$ = 0.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.94363 & 1.30207 & 1.46015 & 1.00003 & 2.00004 & 0.40698 & 0.50042 \\ 
+MSE & 0.01409 & 0.03793 & 0.02442 & 0.00000 & 0.00000 & 0.00105 & 0.00169 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 5000, $\alpha_0$ = 1.0 , $\alpha_1$ = 0.3 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.0 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.97949 & 0.32483 & 1.40673 & 0.00014 & 0.00004 & 1.00485 & 0.49595 \\ 
+MSE & 0.00178 & 0.00199 & 0.00871 & 0.00000 & 0.00000 & 0.00237 & 0.00126 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 4000, $\alpha_0$ = 2.0 , $\alpha_1$ = 0.4 , $\alpha_2$ = 0.5 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.98192 & 0.43185 & 0.54351 & 0.00015 & 0.00005 & 1.40896 & 0.50551 \\ 
+MSE & 0.01061 & 0.00494 & 0.00949 & 0.00000 & 0.00000 & 0.01052 & 0.00189 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 4000, $\alpha_0$ = 1.0 , $\alpha_1$ = 1.0 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.97356 & 1.02311 & 1.44156 & 0.00019 & 0.00006 & 1.40048 & 0.50225 \\ 
+MSE & 0.00309 & 0.00665 & 0.01620 & 0.00000 & 0.00000 & 0.00853 & 0.00136 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 4000, $\alpha_0$ = 2.0 , $\alpha_1$ = 1.2 , $\alpha_2$ = 1.4 , $\mu_1$ = 1.0 , $\mu_2$ = 2.0 , $\sigma_1$ = 0.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.94370 & 1.30046 & 1.43634 & 1.00004 & 2.00004 & 0.40916 & 0.49598 \\ 
+MSE & 0.01836 & 0.04605 & 0.01892 & 0.00000 & 0.00000 & 0.00180 & 0.00156 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 4000, $\alpha_0$ = 1.0 , $\alpha_1$ = 0.3 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.0 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.97296 & 0.33504 & 1.41345 & 0.00021 & 0.00005 & 1.00584 & 0.49545 \\ 
+MSE & 0.00301 & 0.00369 & 0.00990 & 0.00000 & 0.00000 & 0.00335 & 0.00154 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 3000, $\alpha_0$ = 2.0 , $\alpha_1$ = 0.4 , $\alpha_2$ = 0.5 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.95833 & 0.44064 & 0.52896 & 0.00022 & 0.00007 & 1.39929 & 0.49592 \\ 
+MSE & 0.01153 & 0.00973 & 0.01093 & 0.00000 & 0.00000 & 0.01139 & 0.00162 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 3000, $\alpha_0$ = 1.0 , $\alpha_1$ = 1.0 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.98368 & 1.02332 & 1.43653 & 0.00024 & 0.00008 & 1.41120 & 0.50830 \\ 
+MSE & 0.00235 & 0.00525 & 0.01175 & 0.00000 & 0.00000 & 0.00774 & 0.00113 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 3000, $\alpha_0$ = 2.0 , $\alpha_1$ = 1.2 , $\alpha_2$ = 1.4 , $\mu_1$ = 1.0 , $\mu_2$ = 2.0 , $\sigma_1$ = 0.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.91564 & 1.25688 & 1.51406 & 1.00004 & 2.00005 & 0.39550 & 0.50464 \\ 
+MSE & 0.02022 & 0.02505 & 0.07241 & 0.00000 & 0.00000 & 0.00131 & 0.00257 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 3000, $\alpha_0$ = 1.0 , $\alpha_1$ = 0.3 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.0 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.97343 & 0.31736 & 1.42278 & 0.00031 & 0.00008 & 0.98522 & 0.49807 \\ 
+MSE & 0.00284 & 0.00224 & 0.01552 & 0.00000 & 0.00000 & 0.00374 & 0.00177 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 2000, $\alpha_0$ = 2.0 , $\alpha_1$ = 0.4 , $\alpha_2$ = 0.5 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.96631 & 0.47190 & 0.52527 & 0.00034 & 0.00010 & 1.42693 & 0.49713 \\ 
+MSE & 0.02645 & 0.01669 & 0.00934 & 0.00000 & 0.00000 & 0.02423 & 0.00323 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 2000, $\alpha_0$ = 1.0 , $\alpha_1$ = 1.0 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.95594 & 1.07265 & 1.40799 & 0.00031 & 0.00009 & 1.41867 & 0.49012 \\ 
+MSE & 0.00574 & 0.02263 & 0.02098 & 0.00000 & 0.00000 & 0.01956 & 0.00242 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 2000, $\alpha_0$ = 2.0 , $\alpha_1$ = 1.2 , $\alpha_2$ = 1.4 , $\mu_1$ = 1.0 , $\mu_2$ = 2.0 , $\sigma_1$ = 0.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.96767 & 1.30879 & 1.53919 & 1.00005 & 2.00007 & 0.41059 & 0.51735 \\ 
+MSE & 0.01554 & 0.06234 & 0.07882 & 0.00000 & 0.00000 & 0.00155 & 0.00276 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 2000, $\alpha_0$ = 1.0 , $\alpha_1$ = 0.3 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.0 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.96846 & 0.31997 & 1.43379 & 0.00034 & 0.00009 & 0.98432 & 0.49973 \\ 
+MSE & 0.00357 & 0.00215 & 0.02253 & 0.00000 & 0.00000 & 0.00640 & 0.00236 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 1000, $\alpha_0$ = 2.0 , $\alpha_1$ = 0.4 , $\alpha_2$ = 0.5 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.90956 & 0.43422 & 0.61967 & 0.00051 & 0.00020 & 1.35270 & 0.50661 \\ 
+MSE & 0.04836 & 0.01562 & 0.05716 & 0.00000 & 0.00000 & 0.04344 & 0.00683 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 1000, $\alpha_0$ = 1.0 , $\alpha_1$ = 1.0 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.97878 & 1.07073 & 1.49395 & 0.00071 & 0.00018 & 1.46347 & 0.52483 \\ 
+MSE & 0.00816 & 0.03104 & 0.08129 & 0.00000 & 0.00000 & 0.05189 & 0.00859 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 1000, $\alpha_0$ = 2.0 , $\alpha_1$ = 1.2 , $\alpha_2$ = 1.4 , $\mu_1$ = 1.0 , $\mu_2$ = 2.0 , $\sigma_1$ = 0.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.91956 & 1.27014 & 1.69893 & 1.00010 & 2.00011 & 0.39339 & 0.53478 \\ 
+MSE & 0.07128 & 0.05627 & 0.38646 & 0.00000 & 0.00000 & 0.00365 & 0.01516 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 1000, $\alpha_0$ = 1.0 , $\alpha_1$ = 0.3 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.0 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.95270 & 0.36797 & 1.47673 & 0.00060 & 0.00029 & 1.02770 & 0.50857 \\ 
+MSE & 0.00961 & 0.01397 & 0.06767 & 0.00000 & 0.00000 & 0.01362 & 0.00680 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 500, $\alpha_0$ = 2.0 , $\alpha_1$ = 0.4 , $\alpha_2$ = 0.5 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.95618 & 0.46742 & 0.73620 & 0.00117 & 0.00039 & 1.42407 & 0.55308 \\ 
+MSE & 0.07022 & 0.03127 & 0.14380 & 0.00000 & 0.00000 & 0.06179 & 0.01992 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 500, $\alpha_0$ = 1.0 , $\alpha_1$ = 1.0 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.90050 & 1.14344 & 1.50343 & 0.00109 & 0.00037 & 1.45169 & 0.49413 \\ 
+MSE & 0.02772 & 0.07866 & 0.12047 & 0.00000 & 0.00000 & 0.08810 & 0.01221 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 500, $\alpha_0$ = 2.0 , $\alpha_1$ = 1.2 , $\alpha_2$ = 1.4 , $\mu_1$ = 1.0 , $\mu_2$ = 2.0 , $\sigma_1$ = 0.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.86473 & 1.55816 & 1.71571 & 1.00023 & 2.00025 & 0.43426 & 0.53351 \\ 
+MSE & 0.13336 & 0.45512 & 1.03595 & 0.00000 & 0.00000 & 0.01558 & 0.04851 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 500, $\alpha_0$ = 1.0 , $\alpha_1$ = 0.3 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.0 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.93768 & 0.35206 & 1.50287 & 0.00146 & 0.00043 & 0.97830 & 0.51588 \\ 
+MSE & 0.01456 & 0.01088 & 0.11049 & 0.00000 & 0.00000 & 0.02300 & 0.01056 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 450, $\alpha_0$ = 2.0 , $\alpha_1$ = 0.4 , $\alpha_2$ = 0.5 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.91070 & 0.52748 & 0.57160 & 0.00158 & 0.00047 & 1.45425 & 0.49844 \\ 
+MSE & 0.05030 & 0.05707 & 0.03983 & 0.00000 & 0.00000 & 0.07447 & 0.00563 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 450, $\alpha_0$ = 1.0 , $\alpha_1$ = 1.0 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.90767 & 1.11320 & 1.68839 & 0.00151 & 0.00052 & 1.41224 & 0.54954 \\ 
+MSE & 0.02390 & 0.09853 & 0.29713 & 0.00000 & 0.00000 & 0.07482 & 0.02072 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 450, $\alpha_0$ = 2.0 , $\alpha_1$ = 1.2 , $\alpha_2$ = 1.4 , $\mu_1$ = 1.0 , $\mu_2$ = 2.0 , $\sigma_1$ = 0.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.82057 & 1.56514 & 1.82241 & 1.00028 & 2.00033 & 0.42783 & 0.54503 \\ 
+MSE & 0.15430 & 0.72119 & 0.91778 & 0.00000 & 0.00000 & 0.01829 & 0.04252 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 450, $\alpha_0$ = 1.0 , $\alpha_1$ = 0.3 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.0 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.93220 & 0.38246 & 1.58845 & 0.00146 & 0.00039 & 1.02558 & 0.53575 \\ 
+MSE & 0.01619 & 0.02312 & 0.27038 & 0.00000 & 0.00000 & 0.02446 & 0.02371 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 350, $\alpha_0$ = 2.0 , $\alpha_1$ = 0.4 , $\alpha_2$ = 0.5 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.95681 & 0.63506 & 0.66958 & 0.00128 & 0.00045 & 1.54458 & 0.52922 \\ 
+MSE & 0.11245 & 0.19393 & 0.17753 & 0.00000 & 0.00000 & 0.15812 & 0.02200 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 350, $\alpha_0$ = 1.0 , $\alpha_1$ = 1.0 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.95044 & 1.11060 & 1.65182 & 0.00284 & 0.00066 & 1.46801 & 0.54903 \\ 
+MSE & 0.03938 & 0.14395 & 0.55777 & 0.00002 & 0.00000 & 0.16724 & 0.04801 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 350, $\alpha_0$ = 2.0 , $\alpha_1$ = 1.2 , $\alpha_2$ = 1.4 , $\mu_1$ = 1.0 , $\mu_2$ = 2.0 , $\sigma_1$ = 0.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.85857 & 1.71729 & 1.93863 & 1.00037 & 2.00038 & 0.45526 & 0.56246 \\ 
+MSE & 0.19776 & 1.40713 & 2.60180 & 0.00000 & 0.00000 & 0.04631 & 0.09872 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 350, $\alpha_0$ = 1.0 , $\alpha_1$ = 0.3 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.0 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.91284 & 0.35202 & 1.47468 & 0.00229 & 0.00046 & 0.94811 & 0.48738 \\ 
+MSE & 0.02569 & 0.01957 & 0.13425 & 0.00002 & 0.00000 & 0.03913 & 0.01322 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 250, $\alpha_0$ = 2.0 , $\alpha_1$ = 0.4 , $\alpha_2$ = 0.5 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.89482 & 0.68652 & 0.77714 & 0.00157 & 0.00079 & 1.55876 & 0.54650 \\ 
+MSE & 0.17735 & 0.29100 & 0.36991 & 0.00000 & 0.00000 & 0.35973 & 0.04611 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 250, $\alpha_0$ = 1.0 , $\alpha_1$ = 1.0 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.89139 & 1.11346 & 1.53932 & 0.00216 & 0.00060 & 1.38735 & 0.49828 \\ 
+MSE & 0.06835 & 0.15333 & 0.32457 & 0.00001 & 0.00000 & 0.17258 & 0.02681 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 250, $\alpha_0$ = 2.0 , $\alpha_1$ = 1.2 , $\alpha_2$ = 1.4 , $\mu_1$ = 1.0 , $\mu_2$ = 2.0 , $\sigma_1$ = 0.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.82182 & 1.58229 & 2.31611 & 1.00042 & 2.00069 & 0.42448 & 0.63001 \\ 
+MSE & 0.24033 & 1.24484 & 5.78014 & 0.00000 & 0.00000 & 0.04144 & 0.21566 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 250, $\alpha_0$ = 1.0 , $\alpha_1$ = 0.3 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.0 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.95464 & 0.38226 & 1.51248 & 0.00296 & 0.00087 & 1.02160 & 0.51108 \\ 
+MSE & 0.01838 & 0.04626 & 0.25408 & 0.00002 & 0.00000 & 0.04718 & 0.02585 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 150, $\alpha_0$ = 2.0 , $\alpha_1$ = 0.4 , $\alpha_2$ = 0.5 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.92345 & 0.66563 & 0.64336 & 0.00328 & 0.00108 & 1.51346 & 0.51486 \\ 
+MSE & 0.24887 & 0.42604 & 0.17580 & 0.00002 & 0.00000 & 0.31287 & 0.02869 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 150, $\alpha_0$ = 1.0 , $\alpha_1$ = 1.0 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.98316 & 1.36645 & 1.81702 & 0.00512 & 0.00118 & 1.81903 & 0.61865 \\ 
+MSE & 0.10438 & 1.16796 & 0.87107 & 0.00006 & 0.00000 & 1.56462 & 0.11024 \\ 
+\hline
+\end{tabular}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 150, $\alpha_0$ = 2.0 , $\alpha_1$ = 1.2 , $\alpha_2$ = 1.4 , $\mu_1$ = 1.0 , $\mu_2$ = 2.0 , $\sigma_1$ = 0.4 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.81386 & 2.09745 & 2.93554 & 1.00071 & 2.00096 & 0.50445 & 0.73492 \\ 
+MSE & 0.46035 & 6.82995 & 18.62076 & 0.00000 & 0.00000 & 0.12581 & 0.56824 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter: N = 150, $\alpha_0$ = 1.0 , $\alpha_1$ = 0.3 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.0 , $\sigma_2$ = 0.5 }
+ \begin{center}
+\begin{tabular}{||c c c c c c c c || }
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.96768 & 0.44585 & 1.82548 & 0.00551 & 0.00129 & 1.10858 & 0.59932 \\ 
+MSE & 0.04027 & 0.12275 & 0.91930 & 0.00006 & 0.00000 & 0.15461 & 0.07822 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
