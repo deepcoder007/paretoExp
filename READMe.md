@@ -5,3 +5,4 @@ The paper is "Statistical Inference for a New Class of Multivariate Pareto Distr
 
 
 
+
