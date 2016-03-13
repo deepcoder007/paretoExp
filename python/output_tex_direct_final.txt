@@ -1,0 +1,272 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 450 , $\alpha_0$ = 1.0 , $\alpha_1$= 0.3 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.0 , $\sigma_2$ = 0.5 }
+No. of iterations  = 877.3
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.93167 & 0.36936 & 1.71433 & 0.00181 & 0.00055 & 0.99577  & 0.56734 \\ 
+MSE & 0.01836 & 0.01972 & 0.36533 & 0.00001 & 0.00000 & 0.04368  & 0.03062 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 450 , $\alpha_0$ = 2.0 , $\alpha_1$= 1.2 , $\alpha_2$ = 1.4 , $\mu_1$ = 1.0 , $\mu_2$ = 2.0 , $\sigma_1$ = 0.4 , $\sigma_2$ = 0.5 }
+No. of iterations  = 979.48
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.87841 & 1.53434 & 1.57404 & 1.00033 & 2.00035 & 0.43138  & 0.51280 \\ 
+MSE & 0.08880 & 0.42310 & 0.29669 & 0.00000 & 0.00000 & 0.01084  & 0.01547 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 450 , $\alpha_0$ = 1.0 , $\alpha_1$= 1.0 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+No. of iterations  = 410.54
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.94420 & 1.09058 & 1.50654 & 0.00169 & 0.00047 & 1.43098  & 0.51228 \\ 
+MSE & 0.02042 & 0.06626 & 0.13600 & 0.00001 & 0.00000 & 0.05153  & 0.01202 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 450 , $\alpha_0$ = 2.0 , $\alpha_1$= 0.4 , $\alpha_2$ = 0.5 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+No. of iterations  = 843.78
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.94084 & 0.49814 & 0.66524 & 0.00137 & 0.00049 & 1.42256  & 0.52810 \\ 
+MSE & 0.05251 & 0.04363 & 0.12142 & 0.00000 & 0.00000 & 0.06107  & 0.01747 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 350 , $\alpha_0$ = 1.0 , $\alpha_1$= 0.3 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.0 , $\sigma_2$ = 0.5 }
+No. of iterations  = 935.14
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.96416 & 0.34729 & 1.52212 & 0.00208 & 0.00062 & 1.02911  & 0.53029 \\ 
+MSE & 0.01787 & 0.01351 & 0.17300 & 0.00001 & 0.00000 & 0.03490  & 0.01620 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 350 , $\alpha_0$ = 2.0 , $\alpha_1$= 1.2 , $\alpha_2$ = 1.4 , $\mu_1$ = 1.0 , $\mu_2$ = 2.0 , $\sigma_1$ = 0.4 , $\sigma_2$ = 0.5 }
+No. of iterations  = 1024.3
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.84819 & 1.55534 & 1.81724 & 1.00032 & 2.00044 & 0.41921  & 0.54162 \\ 
+MSE & 0.15779 & 0.61671 & 1.88403 & 0.00000 & 0.00000 & 0.01552  & 0.06882 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 350 , $\alpha_0$ = 1.0 , $\alpha_1$= 1.0 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+No. of iterations  = 430.9
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.95601 & 1.12142 & 1.61147 & 0.00173 & 0.00063 & 1.47101  & 0.54609 \\ 
+MSE & 0.03532 & 0.13359 & 0.30652 & 0.00001 & 0.00000 & 0.14705  & 0.02999 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 350 , $\alpha_0$ = 2.0 , $\alpha_1$= 0.4 , $\alpha_2$ = 0.5 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+No. of iterations  = 771.6
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.85758 & 0.47717 & 0.67812 & 0.00209 & 0.00072 & 1.36878  & 0.50949 \\ 
+MSE & 0.09972 & 0.05551 & 0.14466 & 0.00001 & 0.00000 & 0.12303  & 0.02141 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 250 , $\alpha_0$ = 1.0 , $\alpha_1$= 0.3 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.0 , $\sigma_2$ = 0.5 }
+No. of iterations  = 916.56
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.94667 & 0.41184 & 1.61855 & 0.00457 & 0.00096 & 1.06375  & 0.53986 \\ 
+MSE & 0.02721 & 0.05269 & 0.27520 & 0.00004 & 0.00000 & 0.06655  & 0.02445 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 250 , $\alpha_0$ = 2.0 , $\alpha_1$= 1.2 , $\alpha_2$ = 1.4 , $\mu_1$ = 1.0 , $\mu_2$ = 2.0 , $\sigma_1$ = 0.4 , $\sigma_2$ = 0.5 }
+No. of iterations  = 1598.34
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.91517 & 1.48780 & 2.12165 & 1.00055 & 2.00066 & 0.43022  & 0.60746 \\ 
+MSE & 0.25143 & 0.43529 & 3.20670 & 0.00000 & 0.00000 & 0.02043  & 0.11603 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 250 , $\alpha_0$ = 1.0 , $\alpha_1$= 1.0 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+No. of iterations  = 419.84
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.91013 & 1.16734 & 1.53696 & 0.00241 & 0.00065 & 1.45726  & 0.49636 \\ 
+MSE & 0.04928 & 0.19048 & 0.20584 & 0.00001 & 0.00000 & 0.21977  & 0.01803 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 250 , $\alpha_0$ = 2.0 , $\alpha_1$= 0.4 , $\alpha_2$ = 0.5 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+No. of iterations  = 920.64
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.94043 & 0.51683 & 0.69382 & 0.00260 & 0.00100 & 1.46417  & 0.54826 \\ 
+MSE & 0.18269 & 0.08174 & 0.29519 & 0.00001 & 0.00000 & 0.20540  & 0.04527 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 150 , $\alpha_0$ = 1.0 , $\alpha_1$= 0.3 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.0 , $\sigma_2$ = 0.5 }
+No. of iterations  = 1668.66
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.90975 & 0.37183 & 2.18334 & 0.00419 & 0.00143 & 0.96557  & 0.68912 \\ 
+MSE & 0.05718 & 0.04171 & 5.50636 & 0.00003 & 0.00000 & 0.10333  & 0.45667 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 150 , $\alpha_0$ = 2.0 , $\alpha_1$= 1.2 , $\alpha_2$ = 1.4 , $\mu_1$ = 1.0 , $\mu_2$ = 2.0 , $\sigma_1$ = 0.4 , $\sigma_2$ = 0.5 }
+No. of iterations  = 4036.78
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 1.86047 & 2.90365 & 3.12494 & 1.00091 & 2.00101 & 0.62212  & 0.79484 \\ 
+MSE & 0.31041 & 82.84094 & 37.29146 & 0.00000 & 0.00000 & 1.73667  & 1.39998 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 150 , $\alpha_0$ = 1.0 , $\alpha_1$= 1.0 , $\alpha_2$ = 1.4 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+No. of iterations  = 460.06
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 0.90795 & 1.35516 & 1.48227 & 0.00453 & 0.00111 & 1.58228  & 0.49499 \\ 
+MSE & 0.07423 & 0.42543 & 0.26569 & 0.00004 & 0.00000 & 0.39360  & 0.03248 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{ For parameter : N = 150 , $\alpha_0$ = 2.0 , $\alpha_1$= 0.4 , $\alpha_2$ = 0.5 , $\mu_1$ = 0.0 , $\mu_2$ = 0.0 , $\sigma_1$ = 1.4 , $\sigma_2$ = 0.5 }
+No. of iterations  = 1754.94
+
+\begin{center}
+\begin{tabular}{|| c c c c c c c c ||}
+\hline
+Value & $\alpha_0 $ & $\alpha_1$ & $\alpha_2$ & $\mu_1$ & $\mu_2$ & $\sigma_1$ & $\sigma_2$ \\ 
+\hline\hline
+AE & 2.06297 & 0.72324 & 0.92712 & 0.00423 & 0.00134 & 1.73256  & 0.64038 \\ 
+MSE & 1.55245 & 0.92472 & 1.23328 & 0.00003 & 0.00000 & 3.67644  & 0.31504 \\ 
+\hline
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
